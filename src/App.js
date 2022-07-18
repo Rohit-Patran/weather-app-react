@@ -4,7 +4,7 @@ import DateCreator from './Function/DateCreator';
 
 //API Credentials
 const API = {
-  key:"178d9c889fd7afcbe3f4bc3cca993289",
+  key:"your_api_key",
   base:"https://api.openweathermap.org/data/2.5/"
 }
 
