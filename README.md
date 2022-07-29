@@ -1,1 +1,1 @@
-##React Weather App with external API integration
+#React Weather App with external API integration
